@@ -1,5 +1,12 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: My OMG Mac
 ---
-![test]({{ site.url }}/assets/testPng.jpg)
+
+### 工具类
+- Moom: 窗口分屏
+- Alfred: Mac 必备
+- 倒计时
+  - Horo
+  - Gestimer
+- ClashX: 翻墙
