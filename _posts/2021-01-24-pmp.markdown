@@ -6,3 +6,4 @@ categories: PMP
 # published: false
 ---
 
+今天学习了资源管理的第一张
