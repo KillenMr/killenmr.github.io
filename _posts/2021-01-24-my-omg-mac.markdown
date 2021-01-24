@@ -3,10 +3,35 @@ layout: post
 title: My OMG Mac
 ---
 
-### 工具类
-- Moom: 窗口分屏
-- Alfred: Mac 必备
-- 倒计时
-  - Horo
-  - Gestimer
-- ClashX: 翻墙
+## 效率工具
+
+### Alfred
+装机必备软件，支持全局搜索、粘贴板历史、快捷打开`App`、快速搜索、自定义插件。插件推荐：
+
+#### 翻译插件
+
+*有道翻译*
+
+服务不稳定、需要注册。
+
+![有道翻译]({{site.url}}/assets/youdao-1.png)
+
+![有道翻译]({{site.url}}/assets/youdao.png)
+
+*谷歌翻译*
+
+谷歌翻译相对于有道翻译，速度较慢，但稳定。
+
+![有道翻译]({{site.url}}/assets/tr-1.png)
+
+![有道翻译]({{site.url}}/assets/tr.png)
+
+### 窗口分屏
+
+### 倒计时
+#### Horo
+#### estimer
+
+### 翻墙
+
+ClashX
